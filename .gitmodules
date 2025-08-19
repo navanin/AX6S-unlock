@@ -1,0 +1,3 @@
+[submodule "xmir-patcher"]
+	path = xmir-patcher
+	url = ./xmir-patcher
